@@ -11,9 +11,6 @@ O Logcat é uma ferramenta que mostra mensagens do sistema e do aplicativo em te
 ---
 
 ## Log de Erro (Error)
-
-![Erro](images/error.png)
-
 Este log mostra um erro ocorrido durante a execução do aplicativo.
 Ele é importante para identificar falhas que podem impedir o funcionamento correto.
 
