@@ -1,7 +1,6 @@
 # Meu App Android
 
 Aplicativo desenvolvido no Android Studio com o objetivo de praticar desenvolvimento mobile.
-(images/logcat.jpeg)
 
 ---
 
@@ -21,25 +20,16 @@ Ele é importante para identificar falhas que podem impedir o funcionamento corr
 ---
 
 ## Log de Informação (Info)
-
-![Info](images/info.png)
-
 Esse tipo de log apresenta informações gerais sobre o funcionamento do aplicativo, como ações realizadas com sucesso.
 
 ---
 
 ## Log de Depuração (Debug)
-
-![Debug](images/debug.png)
-
 Utilizado para acompanhar o fluxo do código durante o desenvolvimento, ajudando a entender o comportamento do app.
 
 ---
 
 ## Log de Aviso (Warning)
-
-![Warning](images/warning.png)
-
 Indica possíveis problemas que não impedem o funcionamento, mas que podem causar erros no futuro.
 
 ---
