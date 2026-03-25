@@ -46,7 +46,7 @@ Indica possíveis problemas que não impedem o funcionamento, mas que podem caus
 
 ## Execução do App
 
-![Execução](images/app.png)
+![Execução](images/logcat.jpeg)
 
 Nesta imagem é possível ver um trecho do código junto com a interface do aplicativo em funcionamento, demonstrando a execução prática do projeto.
 
