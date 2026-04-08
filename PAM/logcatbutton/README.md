@@ -20,7 +20,8 @@ A tela exibe um campo para digitar o nome e quatro botões de menção. Cada bot
 ## Screenshots
 
 ### Tela do app
-![Tela](images\app.jpeg)
+![Tela](<img width="1919" height="921" alt="image" src="https://github.com/user-attachments/assets/385da654-b31d-453c-95dc-37f9a359220a" />
+)
 
 ### Saída no Logcat
 ![Logcat](images\logcat.jpeg)
