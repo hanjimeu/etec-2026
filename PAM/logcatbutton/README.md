@@ -21,7 +21,6 @@ A tela exibe um campo para digitar o nome e quatro botões de menção. Cada bot
 
 ### Tela do app
 ![Tela](screenshots/app.jpeg)
-
 ### Saída no Logcat
 ![Logcat](screenshots/logcat.jpeg)
 
