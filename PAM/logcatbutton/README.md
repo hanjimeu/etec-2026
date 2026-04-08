@@ -20,13 +20,13 @@ A tela exibe um campo para digitar o nome e quatro botões de menção. Cada bot
 ## Screenshots
 
 ### Tela do app
-<img src="images/app.jpeg" width="300"/>
+![Tela](screenshots/app.jpeg)
 
 ### Saída no Logcat
-<img src="images/logcat.jpeg" width="600"/>
+![Logcat](screenshots/logcat.jpeg)
 
 ### Android Studio completo
-<img src="images/projeto.jpeg" width="600"/>
+![Android Studio](screenshots/projeto.jpeg)
 
 ### Projeto feito por
 Mariana dos Santos Moreira
