@@ -47,7 +47,7 @@
         
         <a href="/" class="flex items-center gap-2 text-xl font-black hover:scale-105 transition">
             <img src="/images/mlplogo.png" class="h-12 w-auto object-contain">
-            Equestria Chirper
+            Equestria 
         </a>
 
         <div class="flex gap-3 items-center">

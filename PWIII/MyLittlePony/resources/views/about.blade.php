@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Equestria Chirper</title>
+    <title>Equestria</title>
     <link rel="icon" type="image/png" href="{{ asset('images/mlplogo.png') }}">
     <script src="https://cdn.tailwindcss.com"></script>
 
@@ -309,7 +309,7 @@ btn.addEventListener("click", () => {
     }
 });
 
-// 2 cliques = Pular Música
+// 2 cliques = pula o babado
 btn.addEventListener("dblclick", () => {
     tocarProxima();
 });
